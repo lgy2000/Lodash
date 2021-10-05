@@ -23,7 +23,6 @@ However, implementing the methods from lodash on your own is an invaluable exerc
 - _.dropWhile()
 - _.chunk()
 
-end
 ```
 
 ## Sources
