@@ -1,8 +1,8 @@
 # Lodash (Tutorial Project)
 
-In this project, you will be implementing some of the most exciting functionality from the widely-popular lodash.js library which provides many methods that add new functionality for numbers, strings, objects, and arrays.
+In this project, I implemented some of the most exciting functionality from the widely-popular lodash.js library which provides many methods that add new functionality for numbers, strings, objects, and arrays.
 
-However, implementing the methods from lodash on your own is an invaluable exercise in problem-solving and a great way to understand how the methods work! We’ve selected ten methods for you to implement.
+However, implementing the methods from lodash is an invaluable exercise in problem-solving and a great way to understand how the methods work!
 
 ## Technologies
 
